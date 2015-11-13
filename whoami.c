@@ -19,5 +19,6 @@ int main() {
 	printf("1023029\n");
 	printf("1022982\n");
 	printf("1023015\n");
+	
 	return 0;
 }
